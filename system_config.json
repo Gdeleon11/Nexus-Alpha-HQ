@@ -1,0 +1,21 @@
+{
+  "assets": [
+    {
+      "type": "forex",
+      "pair": "OANDA:EUR_USD",
+      "timeframes": [
+        "5m"
+      ]
+    }
+  ],
+  "risk_threshold": 0.15,
+  "strategies": {},
+  "focus": {
+    "type": "balanced",
+    "asset_types": [
+      "crypto",
+      "forex"
+    ]
+  },
+  "last_updated": "2025-07-06T23:03:34.604103"
+}
